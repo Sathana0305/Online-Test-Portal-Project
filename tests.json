@@ -1,0 +1,106 @@
+{
+  "Tamil": [
+    {
+      "text": "Who wrote the classical work of 'Thirukkural'?",
+      "opts": [
+        "Bharathiyar",
+        "Thiruvalluvar",
+        "Kambar",
+        "Ilango"
+      ],
+      "ans": "B"
+    },
+    {
+      "text": "Who is known as the father of Tamil Literature?",
+      "opts": [
+        "Agastya",
+        "Avvaiyar",
+        "Kambar",
+        "Bharathidasan"
+      ],
+      "ans": "A"
+    },
+    {
+      "text": "What is the official language of Tamil Nadu?",
+      "opts": [
+        "Hindi",
+        "English",
+        "Tamil",
+        "Telugu"
+      ],
+      "ans": "C"
+    },
+    {
+      "text": "How many vowels are there in Tamil?",
+      "opts": [
+        "12",
+        "18",
+        "5",
+        "10"
+      ],
+      "ans": "A"
+    },
+    {
+      "text": "What is the name of the Tamil New Year?",
+      "opts": [
+        "Pongal",
+        "Ugadi",
+        "Vishu",
+        "Puthandu"
+      ],
+      "ans": "D"
+    }
+  ],
+  "Math": [
+    {
+      "text": "What is 2+2?",
+      "opts": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "ans": "C"
+    },
+    {
+      "text": "What is 5-3?",
+      "opts": [
+        "3",
+        "2",
+        "5",
+        "6"
+      ],
+      "ans": "B"
+    },
+    {
+      "text": "Solve: 5*4?",
+      "opts": [
+        "30",
+        "25",
+        "20",
+        "45"
+      ],
+      "ans": "C"
+    },
+    {
+      "text": "Solve:(3*4)+(2*5)?",
+      "opts": [
+        "22",
+        "26",
+        "32",
+        "54"
+      ],
+      "ans": "A"
+    },
+    {
+      "text": "Which of these is a perfect cube?",
+      "opts": [
+        "8",
+        "16",
+        "12",
+        "10"
+      ],
+      "ans": "A"
+    }
+  ]
+}
